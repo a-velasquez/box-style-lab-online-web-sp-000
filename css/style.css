@@ -47,6 +47,7 @@ img {
 .dubious {
   background-color: #dd4444;
   box-shadow:  -1px 1px #dd4444, -2px 2px #dd4444, -3px 3px #dd4444, -4px 4px #dd4444, -5px 5px #dd4444;
+  background: linear-gradient(to right, #ffdd44, #dddd22);
 }
 
 .column {
