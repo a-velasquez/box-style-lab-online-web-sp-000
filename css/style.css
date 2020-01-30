@@ -26,9 +26,6 @@ h4 {
   margin: 20px 0 0 0;
 }
 
-h4 .amiable {
-
-}
 
 img {
   border: 2px solid gray;
@@ -44,6 +41,7 @@ img {
 .indifferent {
   background-color: #dddd22;
   box-shadow:  -1px 1px #dddd22, -2px 2px #dddd22, -3px 3px #dddd22, -4px 4px #dddd22, -5px 5px #dddd22;
+  background: linear-gradient(to right, #66cc66, #22aa44);
 }
 
 .dubious {
