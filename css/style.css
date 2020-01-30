@@ -27,7 +27,7 @@ h4 {
 }
 
 h4 .amiable {
-  background: linear-gradient(to-right, green, red);
+  background: linear-gradient(to right, #FFF, #000);
 }
 
 img {
